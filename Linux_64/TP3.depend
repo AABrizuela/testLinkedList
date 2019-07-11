@@ -1,0 +1,511 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541249581 source:c:\users\alumno\downloads\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\alumno\downloads\tp3\win_64\linkedlist.h
+
+1533133022 c:\users\alumno\downloads\tp3\win_64\employee.h
+
+1533133022 source:c:\users\alumno\downloads\tp3\win_64\employee.c
+
+1541249864 source:c:\users\alumno\downloads\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541249521 c:\users\alumno\downloads\tp3\win_64\controller.h
+
+1533133022 source:c:\users\alumno\downloads\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541254723 source:c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1541254537 c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\linkedlist.h
+
+1541252518 c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\employee.h
+
+1541254788 source:c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541251879 source:c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541249521 c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\controller.h
+
+1541251917 source:c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541250116 source:c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1541250116 c:\users\alumno\desktop\prog\trabajos practicos\tp3\win_64\utn.h
+
+1541604302 source:d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1541601107 d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\linkedlist.h
+
+1541601107 d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\controller.h
+
+1541601107 d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\employee.h
+
+1541592146 d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\utn.h
+
+1541604259 source:d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541603126 source:d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541600295 source:d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1541592146 source:d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1541592146 d:\n_alegria\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1541704472 source:c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1541462455 c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\parser.h
+	"LinkedList.h"
+
+1541704472 c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\linkedlist.h
+
+1541704472 c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\controller.h
+
+1541704472 c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\employee.h
+
+1541376316 c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\utn.h
+
+1541704472 source:c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541704798 source:c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541704472 source:c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1541376316 source:c:\users\nestor\desktop\c\programacion_1_laboratorio_1\trabajos practicos\tp3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1541795966 source:c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541748952 c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\parser.h
+	"LinkedList.h"
+
+1541704472 c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\linkedlist.h
+
+1541749257 c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\controller.h
+
+1541795966 c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\employee.h
+
+1541792545 source:c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541746881 source:c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1541795937 source:c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1541376316 c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\utn.h
+
+1541705746 source:c:\users\nestor\desktop\c\tp_laboratorio_1\trabajo practico n°3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1543431174 source:c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543431174 c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\parser.h
+	"LinkedList.h"
+
+1543431174 c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\linkedlist.h
+
+1543431364 c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\controller.h
+
+1543431174 c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\employee.h
+
+1543431174 source:c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1543431174 source:c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1543431174 source:c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1543431364 source:c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1543431174 c:\users\nestor\desktop\c\trabajos practicos\trabajo practico n°3\win_64\utn.h
+
+1560479318 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/parser.h
+	"LinkedList.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/LinkedList.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/Controller.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/Employee.h
+
+1560478780 /home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/utn.h
+
+1544221484 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560478938 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1544221484 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1560479335 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP3/Linux_64/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1560479318 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/Controller.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/parser.h
+	"LinkedList.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/LinkedList.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/Controller.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/Employee.h
+
+1560478780 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/utn.h
+
+1544221484 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560478938 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/main.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1544221484 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1560479335 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1561663623 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 3/Linux_64/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562628152 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/Controller.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/parser.h
+	"LinkedList.h"
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/LinkedList.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/Controller.h
+
+1544221484 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/Employee.h
+
+1560478780 /home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/utn.h
+
+1562731467 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1562729979 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/main.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1562730795 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1562723853 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1562867129 source:/home/adrian/Documentos/UTN/Trabajos Practicos/TP 4 - LinkedList.c/Linux_64/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
